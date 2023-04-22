@@ -1,0 +1,16 @@
+C:\Users\sheena\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.exe.config
+C:\Users\sheena\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.exe
+C:\Users\sheena\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.pdb
+C:\Users\sheena\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.xml
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.vbproj.AssemblyReference.cache
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Resources.resources
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.vbproj.GenerateResource.cache
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.vbproj.CoreCompileInputs.cache
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.exe
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.xml
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.pdb
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Login.resources
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.dashboard.resources
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.info.resources
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.appoint.resources
+C:\Users\sheena\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Slip.resources
